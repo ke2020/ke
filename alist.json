@@ -1,11 +1,6 @@
 {
   "vodPic": "https://jsd.onmicrosoft.cn/gh/ke2020/ke/logo.png",
   "drives": [
-    {
-      "name": "本地",
-      "server": "http://0.0.0.0:5244/"
-      "danmu": true
-    },
     {      
       "name": "moto",
       "server": "http://192.168.124.7:5244/"
@@ -18,6 +13,7 @@
     {
       "name": "601",
       "server": "http://192.168.1.30:5244/"
+      "danmu": true
     },
     {
       "name": "puppet studio",
