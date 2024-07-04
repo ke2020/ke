@@ -2,9 +2,8 @@
   "vodPic": "https://jsd.onmicrosoft.cn/gh/ke2020/ke/logo.png",
   "drives": [
     {
-      "name": "本地",
+      "name": "local",
       "server": "http://0.0.0.0:5244/"
-      "danmu": true
     },
     {
       "name": "moto",
