@@ -2,10 +2,6 @@
   "vodPic": "https://jsd.onmicrosoft.cn/gh/ke2020/ke/logo.png",
   "drives": [
     {
-      "name": "本地",
-      "server": "http://0.0.0.0:5244/"
-    },
-    {
       "name": "moto",
       "server": "http://192.168.124.7:5244/"
     },
