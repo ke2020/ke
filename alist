@@ -1,6 +1,6 @@
 {
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ke2020/gao/jar/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+"spider":"https://jsd.onmicrosoft.cn/gh/gaotianliuyun/gao/jar/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
 "sites":[
-{"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,ext":"https://jsd.onmicrosoft.cn/gh/ke2020/ke/alist.json"}
+{"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./alist.json"}
 ]
 }
