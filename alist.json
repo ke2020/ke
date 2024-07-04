@@ -6,7 +6,8 @@
       "server": "http://0.0.0.0:5244/"
       "danmu": true
     },
-    {      "name": "moto",
+    {      
+      "name": "moto",
       "server": "http://192.168.124.7:5244/"
       "danmu": true
     },
