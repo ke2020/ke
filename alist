@@ -1,6 +1,6 @@
 {
-"spider":"https://github.moeyy.xyz/https://github.com/qist/tvbox/raw/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
 "sites":[
-{"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"https://jsd.onmicrosoft.cn/gh/ke2020/ke/alist.json"}
+{"key":"csp_AList","name":"ALis┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./alist.json"}
 ]
 }
