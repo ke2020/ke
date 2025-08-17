@@ -1,8 +1,13 @@
 port: 7893
 socks-port: 7894
 allow-lan: false
-mode: Global
+mode: Rule
 proxies:
+# http
+- name: "netese"
+  type: http
+  server: 192.168.124.17
+  port: 8080
 # socks5
 - name: "HKP"
   type: socks5
