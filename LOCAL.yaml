@@ -27,6 +27,15 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
+- name: "hiddify"
+  type: socks5
+  server: 127.0.0.1
+  port: 12330
+  # username: username
+  # password: password
+  tls: false
+  skip-cert-verify: true
+  udp: true
 proxy-groups:
 - name: Proxy
   type: select
